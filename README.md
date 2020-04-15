@@ -1,6 +1,7 @@
 # alexa_lamp
 
 This code is A PROTOTYPE put together by Bob Clagett of I Like To Make Stuff
+
 It's not efficient, not guaranteed to work, etc
 I also cannot help you get it to run, debug your issues etc.  
 
