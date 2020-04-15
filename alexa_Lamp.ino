@@ -8,6 +8,9 @@ Feel free to use it, modify it, but you're on you're own.
 See the accompanying project at
 https://iliketomakestuff.com/making-a-modern-lamp-with-inductive-charging/
 
+Relies on the libraries below
+fauxmoESP
+Adafruit_NeoMatrix
 */
 
 #include <Arduino.h>
